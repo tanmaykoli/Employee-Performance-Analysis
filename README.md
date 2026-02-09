@@ -38,4 +38,4 @@ Artificial Neural Network (MLP Classifier)
 
 ---
 
-Internship Week 6 Project
+
